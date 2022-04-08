@@ -42,3 +42,9 @@ img {
 	font-size: 24px;
 	border-radius: 12px;
 }
+
+#duckCat {
+	border-style: double;
+	border-radius: 15px;
+}
+
